@@ -12,6 +12,16 @@ public class TaskDay {
 
 	}
 	
+	private void comName() {
+		System.out.println("TCS");
+
+	}
+	
+	private void comId() {
+		System.out.println("6789");
+
+	}
+	
 	
 	
 
